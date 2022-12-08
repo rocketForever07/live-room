@@ -1,0 +1,23 @@
+{
+  "name": "room",
+  "version": "1.0.0",
+  "description": "live room",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocketForever07/live-room.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rocketForever07/live-room/issues"
+  },
+  "homepage": "https://github.com/rocketForever07/live-room#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
